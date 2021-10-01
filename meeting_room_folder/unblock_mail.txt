@@ -1,0 +1,6 @@
+Hi ${Admin},
+
+Please unblock the meeting room 'MEETING_ROOM'.
+
+Thanks,
+Pi

@@ -1,0 +1,6 @@
+Hi ${PERSON_NAME}, 
+
+The meeting room 'MEETING_ROOM' is blocked by you. Please confirm your booking by voting YES/NO.
+
+Thanks,
+Admin
